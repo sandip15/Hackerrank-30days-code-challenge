@@ -19,7 +19,7 @@ Sample Output
 */
 
 //----——-------------------solution--------------------------
-'use strict';
+'use strict'; // avoid using global variables
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
