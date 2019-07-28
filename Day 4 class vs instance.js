@@ -1,5 +1,8 @@
 /* 
-Write a Person class with an instance variable,age , and a constructor that takes an integer,initial age , as a parameter. The constructor must assign initial age to age after confirming the argument passed as initial age is not negative; if a negative argument is passed as initial age, the constructor should set age to  and print Age is not valid, setting age to 0.. In addition, you must write the following instance methods:
+Write a Person class with an instance variable,age , and a constructor that takes an integer,initial age , as a parameter. 
+The constructor must assign initial age to age after confirming the argument passed as initial age is not negative; if a 
+negative argument is passed as initial age, the constructor should set age to  and print Age is not valid, setting age to 0.. 
+In addition, you must write the following instance methods:
 
 yearPasses() should increase the  instance variable by .
 amIOld() should perform the following conditional actions:
@@ -13,8 +16,8 @@ Otherwise, print You are old..
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
-var input_stdin = "";
-var input_stdin_array = "";
+var input_stdin = "";  // creating empty string 
+var input_stdin_array = "";  // empty string 
 var input_currentline = 0;
 
 process.stdin.on('data', function (data) {
