@@ -20,7 +20,7 @@ Rn ak
 function processData(input) {
     //Enter your code here
     let arr = input.split('\n')
-    let even = '';
+    let even = ''; // creating empty string
     let odd = '';
 
     for (let i = 1; i < arr.length; i++){
