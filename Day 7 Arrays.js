@@ -6,7 +6,7 @@ The first line contains an integer, N  (the size of our array).
 The second line contains N space-separated integers describing array A's elements.
 
 Output Format:
-Print the elements of array  in reverse order as a single line of space-separated numbers.
+Print the elements of an array  in the reverse order as a single line of space-separated numbers.
 
 sample input:
 4
@@ -19,7 +19,7 @@ Sample Output
 */
 
 //----——-------------------solution--------------------------
-'use strict'; // avoid using global variables
+'use strict'; // to avoid using global variables
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
