@@ -8,8 +8,10 @@ Output Format
 
 Print 10 lines of output; each line  (where 1<= i<= 10) contains the result  of n x i in the form: 
 n x i = result.
+
 sample input 
 2
+
 sample output 
 2 x 1 = 2
 2 x 2 = 4
@@ -21,9 +23,10 @@ sample output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
+
 */
 
-//------------------------solution----------------------------
+//------------------------solution------------------------------------
 
 'use strict';
 
