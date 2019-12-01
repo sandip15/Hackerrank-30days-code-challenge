@@ -1,4 +1,4 @@
-/*
+/* question:  
 Given an array,A,N of integers, print A's elements in reverse order as a single line of space-separated numbers.
 
 Input Format: 
