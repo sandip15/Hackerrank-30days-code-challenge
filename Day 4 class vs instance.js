@@ -1,4 +1,4 @@
-/* 
+/* day 4 challenge
 Write a Person class with an instance variable,age , and a constructor that takes an integer,initial age , as a parameter. 
 The constructor must assign initial age to age after confirming the argument passed as initial age is not negative; if a 
 negative argument is passed as initial age, the constructor should set age to  and print Age is not valid, setting age to 0.. 
