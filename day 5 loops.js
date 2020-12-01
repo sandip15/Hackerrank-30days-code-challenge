@@ -4,7 +4,7 @@ Given an integer, n, print its first 10 multiples. Each multiple n*i (where 1<= 
 the Input Format is as follows:
 
 A single integer, n.
-Output Format
+Output Format:
 
 Print 10 lines of output; each line  (where 1<= i<= 10) contains the result  of n x i in the form: 
 n x i = result.
@@ -23,7 +23,6 @@ sample output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
-
 */
 
 //------------------------solution------------------------------------
